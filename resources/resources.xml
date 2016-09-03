@@ -1,0 +1,7 @@
+<resources>
+    <bitmap id="id_BTOn" filename="images/15x24BT.png" />
+    <bitmap id="id_markers" filename="images/watchmarkers2-6t.png" />
+    <bitmap id="id_batt" filename="images/32x20hollowBatt.png" />
+    <bitmap id="id_notification" filename="images/31x21SpeechBubble.png" />
+    <bitmap id="id_alarm" filename="images/24x23Alarm.png" />
+</resources>

@@ -1,0 +1,136 @@
+<settings>
+
+	<setting propertyKey="@Properties.appVersion" title="@Strings.AppVersionTitle">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle" prompt="@Strings.BackgroundColorPrompt">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0x0000AA">@Strings.ColorMediumBlue</listEntry>
+            <listEntry value="0x000055">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x0055FF">@Strings.ColorLightBlue</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x005500">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x550000">@Strings.ColorDarkRed</listEntry>
+        </settingConfig>
+    </setting>
+
+
+    <setting propertyKey="@Properties.UseMilitaryFormat" title="@Strings.MilitaryFormatTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+	<setting propertyKey="@Properties.DisplayReverse" title="@Strings.ReverseTitle" prompt="@Strings.ReversePrompt">
+        <settingConfig type="boolean" />
+    </setting>   
+
+    <setting propertyKey="@Properties.NumberColor" title="@Strings.NumberColorTitle" prompt="@Strings.NumberColorPrompt">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0x0000AA">@Strings.ColorMediumBlue</listEntry>
+            <listEntry value="0x000055">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x0055FF">@Strings.ColorLightBlue</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x005500">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x550000">@Strings.ColorDarkRed</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.DateColor" title="@Strings.DateColorTitle" prompt="@Strings.DateColorPrompt">
+        <settingConfig type="list">
+           <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0x0000AA">@Strings.ColorMediumBlue</listEntry>
+            <listEntry value="0x000055">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x0055FF">@Strings.ColorLightBlue</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x005500">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x550000">@Strings.ColorDarkRed</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.HourHandColor" title="@Strings.HourHandColorTitle" prompt="@Strings.HourHandColorPrompt">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0x0000AA">@Strings.ColorMediumBlue</listEntry>
+            <listEntry value="0x000055">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x0055FF">@Strings.ColorLightBlue</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x005500">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x550000">@Strings.ColorDarkRed</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.MinuteHandColor" title="@Strings.MinuteHandColorTitle" prompt="@Strings.MinuteHandColorPrompt">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0x0000AA">@Strings.ColorMediumBlue</listEntry>
+            <listEntry value="0x000055">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x0055FF">@Strings.ColorLightBlue</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x005500">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x550000">@Strings.ColorDarkRed</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.DigitalTimeColor" title="@Strings.DigitalTimeColorTitle" prompt="@Strings.DigitalTimeColorPrompt">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0x0000AA">@Strings.ColorMediumBlue</listEntry>
+            <listEntry value="0x000055">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x0055FF">@Strings.ColorLightBlue</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x005500">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x550000">@Strings.ColorDarkRed</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.StepsColor" title="@Strings.StepsColorTitle" prompt="@Strings.StepsColorPrompt">
+        <settingConfig type="list">
+            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
+            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
+            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
+            <listEntry value="0x0000AA">@Strings.ColorMediumBlue</listEntry>
+            <listEntry value="0x000055">@Strings.ColorDarkBlue</listEntry>
+            <listEntry value="0x0055FF">@Strings.ColorLightBlue</listEntry>
+            <listEntry value="0x00FF00">@Strings.ColorGreen</listEntry>
+            <listEntry value="0x005500">@Strings.ColorDarkGreen</listEntry>
+            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
+            <listEntry value="0x550000">@Strings.ColorDarkRed</listEntry>
+        </settingConfig>
+    </setting>
+    
+    
+</settings>

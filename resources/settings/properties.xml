@@ -1,0 +1,16 @@
+<properties>
+
+	<property id="appVersion" type="string">alpha 0.11</property>
+    <property id="BackgroundColor" type="number">0xFFFFFF</property>
+    <property id="ForegroundColor" type="number">0x000000</property>
+    <property id="UseMilitaryFormat" type="boolean">false</property>
+    <property id="DisplayReverse" type="boolean">true</property>
+    
+    <property id="NumberColor" type="number">0x000055</property>
+    <property id="DateColor" type="number">0x555555</property>
+    <property id="HourHandColor" type="number">0x000000</property>
+    <property id="MinuteHandColor" type="number">0xFF0000</property>
+    <property id="DigitalTimeColor" type="number">0x00FF00</property>
+    <property id="StepsColor" type="number">0x0000FF</property>
+
+</properties>

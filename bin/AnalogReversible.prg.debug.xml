@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="37" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="43" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="44" pc="268435522" symbol="onLayout"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="45" pc="268435565" symbol="onLayout"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="46" pc="268435608" symbol="onLayout"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="47" pc="268435651" symbol="onLayout"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="55" pc="268435697" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="56" pc="268435701" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="56" pc="268435721" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="57" pc="268435727" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="58" pc="268435744" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="59" pc="268435784" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="60" pc="268435804" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="60" pc="268435835" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="62" pc="268435845" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="62" pc="268435876" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="65" pc="268435883" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="82" pc="268435892" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="83" pc="268436090" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="84" pc="268436098" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="85" pc="268436117" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="86" pc="268436139" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="87" pc="268436158" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="90" pc="268436177" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="92" pc="268436195" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="93" pc="268436226" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="94" pc="268436257" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="96" pc="268436289" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="100" pc="268436329" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="105" pc="268436379" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="106" pc="268436393" symbol="drawHand"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="113" pc="268436410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="114" pc="268436423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="115" pc="268436440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="116" pc="268436440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="117" pc="268436440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="119" pc="268436465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="120" pc="268436482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="121" pc="268436489" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="122" pc="268436506" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="123" pc="268436523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="124" pc="268436530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="125" pc="268436537" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="126" pc="268436544" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="127" pc="268436551" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="129" pc="268436558" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="131" pc="268436565" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="132" pc="268436578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="134" pc="268436591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="135" pc="268436608" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="138" pc="268436639" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="142" pc="268436715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="143" pc="268436768" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="147" pc="268436812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="156" pc="268436839" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="157" pc="268436892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="158" pc="268436946" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="161" pc="268436978" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="166" pc="268437056" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="168" pc="268437131" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="174" pc="268437197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="175" pc="268437250" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="178" pc="268437304" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="181" pc="268437379" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="189" pc="268437432" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="194" pc="268437516" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="196" pc="268437527" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="202" pc="268437563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="203" pc="268437591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="206" pc="268437608" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="207" pc="268437641" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="208" pc="268437677" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="209" pc="268437687" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="215" pc="268437735" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="218" pc="268437752" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="219" pc="268437788" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="220" pc="268437824" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="221" pc="268437834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="222" pc="268437844" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="223" pc="268437901" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="225" pc="268437914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="229" pc="268437959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="230" pc="268437995" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="232" pc="268438019" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="233" pc="268438026" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="234" pc="268438053" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="240" pc="268438107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="241" pc="268438138" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="242" pc="268438154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="243" pc="268438177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="244" pc="268438230" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="246" pc="268438258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="247" pc="268438293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="248" pc="268438346" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="250" pc="268438374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="251" pc="268438410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="252" pc="268438446" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="253" pc="268438482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="256" pc="268438518" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="257" pc="268438552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="259" pc="268438605" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="260" pc="268438615" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="262" pc="268438640" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="263" pc="268438650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="267" pc="268438676" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="269" pc="268438708" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="270" pc="268438715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="274" pc="268438736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleView.mc" lineNum="285" pc="268438801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleBackground.mc" lineNum="8" pc="268438861" symbol="initialize"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleBackground.mc" lineNum="12" pc="268438882" symbol="initialize"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleBackground.mc" lineNum="17" pc="268438905" symbol="draw"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleBackground.mc" lineNum="18" pc="268438958" symbol="draw"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleApp.mc" lineNum="7" pc="268438973" symbol="initialize"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleApp.mc" lineNum="20" pc="268439000" symbol="getInitialView"/>
+<entry filename="C:\\Users\\mark\\garmin\\reverse\\AnalogReversible\\source\\AnalogReversibleApp.mc" lineNum="25" pc="268439040" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="57" pc="268439059" symbol="initialize"/>
+<entry filename="Rez" lineNum="58" pc="268439083" symbol="initialize"/>
+<entry filename="Rez" lineNum="62" pc="268439129" symbol="draw"/>
+<entry filename="Rez" lineNum="63" pc="268439136" symbol="draw"/>
+<entry filename="Rez" lineNum="64" pc="268439143" symbol="draw"/>
+<entry filename="Rez" lineNum="65" pc="268439156" symbol="draw"/>
+<entry filename="Rez" lineNum="66" pc="268439169" symbol="draw"/>
+<entry filename="Rez" lineNum="71" pc="268439194" symbol="drawComplex"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="24" symbol="id_markers"/>
+<entry field="true" id="15" symbol="profile"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="19" method="true" symbol="mySleepMode"/>
+<entry field="true" id="33" symbol="ColorBlue"/>
+<entry id="8" object="true" symbol="ReversibleView"/>
+<entry field="true" id="13" symbol="notificationicon"/>
+<entry field="true" id="17" symbol="wake"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="46" symbol="ColorGreen"/>
+<entry field="true" id="45" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="9" object="true" symbol="asdfBackground"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="53" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="39" symbol="ColorDarkGreen"/>
+<entry id="32" method="true" symbol="drawComplex"/>
+<entry field="true" id="41" symbol="ColorRed"/>
+<entry field="true" id="54" symbol="ReverseTitle"/>
+<entry field="true" id="37" symbol="StepsColorTitle"/>
+<entry field="true" id="60" symbol="HourHandColorTitle"/>
+<entry field="true" id="59" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="38" symbol="AppName"/>
+<entry id="20" method="true" symbol="drawHand"/>
+<entry field="true" id="18" symbol="markers"/>
+<entry field="true" id="27" symbol="id_alarm"/>
+<entry field="true" id="28" symbol="WatchMarker"/>
+<entry field="true" id="63" symbol="NumberColorPrompt"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="16" symbol="sleep"/>
+<entry field="true" id="14" symbol="AlarmClock"/>
+<entry field="true" id="29" symbol="LauncherIcon"/>
+<entry field="true" id="47" symbol="ReversePrompt"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="42" symbol="MinuteHandColorTitle"/>
+<entry field="true" id="43" symbol="MinuteHandColorPrompt"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="50" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="10" object="true" symbol="ReversibleApp"/>
+<entry field="true" id="44" symbol="DigitalTimeColorTitle"/>
+<entry field="true" id="49" symbol="AppVersionTitle"/>
+<entry field="true" id="61" symbol="HourHandColorPrompt"/>
+<entry field="true" id="11" symbol="BTOn"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry field="true" id="26" symbol="id_notification"/>
+<entry field="true" id="48" symbol="ColorLightGray"/>
+<entry field="true" id="34" symbol="BackgroundColorTitle"/>
+<entry field="true" id="57" symbol="StepsColorPrompt"/>
+<entry field="true" id="55" symbol="BackgroundColorPrompt"/>
+<entry field="true" id="58" symbol="NumberColorTitle"/>
+<entry field="true" id="23" symbol="id_BTOn"/>
+<entry field="true" id="12" symbol="battlevel"/>
+<entry id="22" module="true" symbol="Layouts"/>
+<entry id="30" object="true" symbol="bkgnd"/>
+<entry field="true" id="51" symbol="ColorDarkBlue"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="36" symbol="DateColorPrompt"/>
+<entry field="true" id="52" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="64" symbol="ColorLightBlue"/>
+<entry field="true" id="62" symbol="DateColorTitle"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="25" symbol="id_batt"/>
+<entry id="21" module="true" symbol="Menus"/>
+<entry field="true" id="35" symbol="ColorDarkRed"/>
+<entry field="true" id="40" symbol="DigitalTimeColorPrompt"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="31" symbol="image_markers"/>
+<entry field="true" id="56" symbol="ColorMediumBlue"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435886" name="now" stackId="3" startPc="268435697"/>
+<entry endPc="268435886" name="nowT" stackId="2" startPc="268435697"/>
+<entry endPc="268435886" name="sleepMode" stackId="1" startPc="268435697"/>
+<entry endPc="268436366" name="x" stackId="13" startPc="268436195"/>
+<entry endPc="268436366" name="y" stackId="14" startPc="268436195"/>
+<entry endPc="268436379" name="i" stackId="12" startPc="268436195"/>
+<entry endPc="268436407" name="result" stackId="7" startPc="268435892"/>
+<entry endPc="268436407" name="sin" stackId="11" startPc="268435892"/>
+<entry endPc="268436407" name="cos" stackId="10" startPc="268435892"/>
+<entry endPc="268436407" name="centerY" stackId="9" startPc="268435892"/>
+<entry endPc="268436407" name="coords" stackId="6" startPc="268435892"/>
+<entry endPc="268436407" name="centerX" stackId="8" startPc="268435892"/>
+<entry endPc="268438849" name="timeFormat" stackId="16" startPc="268436410"/>
+<entry endPc="268438849" name="now" stackId="19" startPc="268436410"/>
+<entry endPc="268438849" name="dev" stackId="9" startPc="268436410"/>
+<entry endPc="268438849" name="actinfo" stackId="7" startPc="268436410"/>
+<entry endPc="268438849" name="batt" stackId="11" startPc="268436410"/>
+<entry endPc="268438849" name="hour" stackId="4" startPc="268436410"/>
+<entry endPc="268438849" name="dateStr" stackId="21" startPc="268436410"/>
+<entry endPc="268438849" name="clockTime" stackId="3" startPc="268436410"/>
+<entry endPc="268438849" name="dialShift" stackId="15" startPc="268436410"/>
+<entry endPc="268438849" name="inboard" stackId="12" startPc="268436410"/>
+<entry endPc="268438849" name="height" stackId="18" startPc="268436410"/>
+<entry endPc="268438849" name="width" stackId="17" startPc="268436410"/>
+<entry endPc="268438849" name="fontheight" stackId="6" startPc="268436410"/>
+<entry endPc="268438849" name="min" stackId="5" startPc="268436410"/>
+<entry endPc="268438849" name="screenWidth" stackId="2" startPc="268436410"/>
+<entry endPc="268438849" name="j" stackId="14" startPc="268436410"/>
+<entry endPc="268438849" name="i" stackId="13" startPc="268436410"/>
+<entry endPc="268438849" name="info" stackId="20" startPc="268436410"/>
+<entry endPc="268438849" name="SleepMsg" stackId="8" startPc="268436410"/>
+<entry endPc="268438849" name="stats" stackId="10" startPc="268436410"/>
+<entry endPc="268438902" name="dictionary" stackId="1" startPc="268438861"/>
+<entry endPc="268439191" name="pWidth" stackId="4" startPc="268439129"/>
+<entry endPc="268439191" name="pY" stackId="3" startPc="268439129"/>
+<entry endPc="268439191" name="pX" stackId="2" startPc="268439129"/>
+<entry endPc="268439191" name="pHeight" stackId="5" startPc="268439129"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="ReversibleView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="ReversibleView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="mySleepMode" parent="ReversibleView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="ReversibleView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawHand" parent="ReversibleView">
+<param id="dc"/>
+<param id="angle"/>
+<param id="length"/>
+<param id="width"/>
+<param id="dialdrop"/>
+<documentation><![CDATA[<div class="description"> Draw the watch hand<br/> <div class="param"> dc Device Context to Draw</div><br/> <div class="param"> angle Angle to draw the watch hand</div><br/> <div class="param"> length Length of the watch hand</div><br/> <div class="param"> width Width of the watch hand</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ReversibleView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="ReversibleView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="ReversibleView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="ReversibleView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="asdfBackground">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="asdfBackground">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ReversibleApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="ReversibleApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="ReversibleApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="ReversibleApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="ReversibleApp">
+<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="bkgnd">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="bkgnd">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="bkgnd">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

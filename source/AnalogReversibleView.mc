@@ -30,20 +30,16 @@ class ReversibleView extends Ui.WatchFace {
     var sleep=profile.sleepTime.value();
     var wake=profile.wakeTime.value();
     
-    var markers;
-    //var markerFont;
+    var markerFont;
     
     function initialize() {
-    	//markers = new Rez.Drawables.bkgnd();
         WatchFace.initialize();
     }
 
     //! Load your resources here
     function onLayout(dc) {
-    	//setLayout(Rez.Layouts.WatchFace(dc));
-        markers = Ui.loadResource(Rez.Drawables.id_markers);
-        iconFont = Ui.loadResource(Rez.Fonts.id_font_icons);
-        //markerFont = Ui.loadResource(Rez.Fonts.id_font_markers);
+    	iconFont = Ui.loadResource(Rez.Fonts.id_font_icons);
+        markerFont = Ui.loadResource(Rez.Fonts.id_font_markers);
     }
 
 
@@ -122,7 +118,6 @@ class ReversibleView extends Ui.WatchFace {
         var inboard = 2;
         var i = 1;
         var j = 1;
-        var dialShift = 0;   //how much to shift the dial down from the top
         
         var timeFormat = "$1$:$2$";
     
@@ -145,54 +140,42 @@ class ReversibleView extends Ui.WatchFace {
         dc.setColor(backgroundColor, Gfx.COLOR_TRANSPARENT);
         dc.fillRectangle(0,0,dc.getWidth(), dc.getHeight());
         
-        //markers.draw(dc);
-        dc.drawBitmap(0,dialShift,markers);
-        //dc.setColor(Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT);
-        //dc.drawText(0, dialShift, markerFont, "0", Gfx.TEXT_JUSTIFY_LEFT);
-        //dc.drawText(0, dialShift+10, markerFont, "0", Gfx.TEXT_JUSTIFY_LEFT);
+        //draw markers
+        dc.setColor(App.getApp().getProperty("MarkerColor"), Gfx.COLOR_TRANSPARENT);
+        dc.drawText(0, 0, markerFont, "1", Gfx.TEXT_JUSTIFY_LEFT);
         
         // Draw the numbers
         dc.setColor(App.getApp().getProperty("NumberColor"), Gfx.COLOR_TRANSPARENT);
-        dc.drawText((width/2),inboard+dialShift,Gfx.FONT_NUMBER_MILD,"12",Gfx.TEXT_JUSTIFY_CENTER);
+        dc.drawText((width/2),inboard ,Gfx.FONT_NUMBER_MILD,"12",Gfx.TEXT_JUSTIFY_CENTER);
         if (App.getApp().getProperty("DisplayReverse"))
         {
-        	//dc.drawText(width-inboard-6,width/2-fontheight/2+dialShift-2,Gfx.FONT_NUMBER_MILD,"9", Gfx.TEXT_JUSTIFY_RIGHT);
-        	dc.drawText(inboard+4,width/2-fontheight/2+dialShift -2,Gfx.FONT_NUMBER_MILD,"3",Gfx.TEXT_JUSTIFY_LEFT);
+        	//dc.drawText(width-inboard-6,width/2-fontheight/2-2,Gfx.FONT_NUMBER_MILD,"9", Gfx.TEXT_JUSTIFY_RIGHT);
+        	dc.drawText(inboard+4,width/2-fontheight/2 -2,Gfx.FONT_NUMBER_MILD,"3",Gfx.TEXT_JUSTIFY_LEFT);
         }
         else
         {
-        	//dc.drawText(width-inboard-6,width/2-fontheight/2+dialShift-2,Gfx.FONT_NUMBER_MILD,"3", Gfx.TEXT_JUSTIFY_RIGHT);
-        	dc.drawText(inboard+5,width/2-fontheight/2+dialShift -2,Gfx.FONT_NUMBER_MILD,"9",Gfx.TEXT_JUSTIFY_LEFT);
+        	//dc.drawText(width-inboard-6,width/2-fontheight/2-2,Gfx.FONT_NUMBER_MILD,"3", Gfx.TEXT_JUSTIFY_RIGHT);
+        	dc.drawText(inboard+5,width/2-fontheight/2 -2,Gfx.FONT_NUMBER_MILD,"9",Gfx.TEXT_JUSTIFY_LEFT);
         }
-        dc.drawText(width/2,width-fontheight-2-inboard+dialShift,Gfx.FONT_NUMBER_MILD,"6", Gfx.TEXT_JUSTIFY_CENTER);
+        dc.drawText(width/2,width-fontheight-2-inboard,Gfx.FONT_NUMBER_MILD,"6", Gfx.TEXT_JUSTIFY_CENTER);
         
 
 
 		// Write the date
-        //dc.drawText(width/2,(width/4)+dialShift,Gfx.FONT_MEDIUM, dateStr, Gfx.TEXT_JUSTIFY_CENTER);
+        //dc.drawText(width/2,(width/4),Gfx.FONT_MEDIUM, dateStr, Gfx.TEXT_JUSTIFY_CENTER);
         dc.setColor(App.getApp().getProperty("DateColor"), Gfx.COLOR_TRANSPARENT);
         dc.drawText(width/2,height-42,Gfx.FONT_MEDIUM, dateStr, Gfx.TEXT_JUSTIFY_CENTER);
         
         //date in place of number
-        dc.drawText(width-inboard-6,width/2-fontheight/2+dialShift,Gfx.FONT_LARGE,info.day, Gfx.TEXT_JUSTIFY_RIGHT);
+        dc.drawText(width-inboard-6,width/2-fontheight/2,Gfx.FONT_LARGE,info.day, Gfx.TEXT_JUSTIFY_RIGHT);
         
-        // Write "Go to sleep" if sleep mode
+        // show steps
         dc.setColor(App.getApp().getProperty("StepsColor"), Gfx.COLOR_TRANSPARENT);
-        //if (mySleepMode())
-        //if (actinfo.isSleepMode)
-        	//{
-        	//dc.drawText(width/2, width + dialShift -4, Gfx.FONT_SMALL, SleepMsg , Gfx.TEXT_JUSTIFY_CENTER);
-        	//} 
-        	//else
-        	//{
-        	dc.drawText(width/2, width +dialShift -4, Gfx.FONT_MEDIUM, ""+actinfo.steps + " / "+actinfo.stepGoal , Gfx.TEXT_JUSTIFY_CENTER);
-        	//}
-        	
+        dc.drawText(width/2, width  -4, Gfx.FONT_MEDIUM, ""+actinfo.steps + " / "+actinfo.stepGoal , Gfx.TEXT_JUSTIFY_CENTER);
         	
         // Draw blue bluetooth icon if connected to phone
         if (dev.phoneConnected)
         	{
-        	//dc.drawBitmap(width-16,1,BTOn);
         	dc.setColor(App.getApp().getProperty("BTIconColor"), Gfx.COLOR_TRANSPARENT);
         	dc.drawText(width-2,0,iconFont,"4",Gfx.TEXT_JUSTIFY_RIGHT);
         	}
@@ -204,7 +187,6 @@ class ReversibleView extends Ui.WatchFace {
         if (dev.alarmCount>0)
         {
         
-        //dc.drawBitmap(1,j+1,AlarmClock);
         dc.setColor(App.getApp().getProperty("AlarmIconColor"), Gfx.COLOR_TRANSPARENT);
         dc.drawText(1,j,iconFont,"3",Gfx.TEXT_JUSTIFY_LEFT);
         batt=dev.alarmCount;
@@ -218,7 +200,6 @@ class ReversibleView extends Ui.WatchFace {
         if (dev.notificationCount>0)
         {
         //j=width-24;
-        //dc.drawBitmap(width-30,j+4,notificationicon);
         dc.setColor(App.getApp().getProperty("NotificationIconColor"), Gfx.COLOR_TRANSPARENT);
         dc.drawText(width-30,j+3,iconFont,"2",Gfx.TEXT_JUSTIFY_LEFT);
         batt = dev.notificationCount;
@@ -235,29 +216,25 @@ class ReversibleView extends Ui.WatchFace {
         batt = stats.battery.format("%d");
         //j = 1; //width + dc.getFontHeight(Gfx.FONT_SMALL) -3;
         i = 1 ; //width-21;
-        //dc.drawBitmap(i,1,battlevel);
         dc.drawText(i,0,iconFont,"1",Gfx.TEXT_JUSTIFY_LEFT);
-        //dc.setColor(backgroundColor, Gfx.COLOR_TRANSPARENT);
         dc.drawText(16,-3 ,Gfx.FONT_MEDIUM, batt ,Gfx.TEXT_JUSTIFY_CENTER);
         
-        // Draw the hash marks
-        //drawHashMarks(dc);
         // Draw the hour. Convert it to minutes and
         // compute the angle.
         hour = ( ( ( clockTime.hour % 12 ) * 60 ) + clockTime.min );
         hour = hour / (12 * 60.0);
         hour = hour * Math.PI * 2;
         dc.setColor(App.getApp().getProperty("HourHandColor"), Gfx.COLOR_TRANSPARENT);
-        drawHand(dc, hour, 42, 6,dialShift);
+        drawHand(dc, hour, 42, 6,0);
         // Draw the minute
         min = ( clockTime.min / 60.0) * Math.PI * 2;
         dc.setColor(App.getApp().getProperty("MinuteHandColor"), Gfx.COLOR_TRANSPARENT);
-        drawHand(dc, min, 62, 4, dialShift);
+        drawHand(dc, min, 62, 4, 0);
         // Draw the inner circle
         dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_BLACK);
-        dc.fillCircle(width/2, width/2+dialShift, 5);
+        dc.fillCircle(width/2, width/2, 5);
         dc.setColor(Gfx.COLOR_BLACK,Gfx.COLOR_BLACK);
-        dc.drawCircle(width/2, width/2+dialShift, 5);
+        dc.drawCircle(width/2, width/2, 5);
         
         //Print digital time at bottom
         j = height - dc.getFontHeight(Gfx.FONT_MEDIUM)+2;
@@ -310,19 +287,3 @@ class ReversibleView extends Ui.WatchFace {
 
 }
 
-/*class ReversibleWatch extends App.AppBase
-{
-    function onStart()
-    {
-    }
-
-    function onStop()
-    {
-    }
-
-    function getInitialView()
-    {
-        return [new Reversible()];
-    }
-}
-*/

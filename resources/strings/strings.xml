@@ -17,6 +17,8 @@
     <string id="ReverseTitle">Display and run counterclockwise face</string>
     <string id="ReversePrompt">Watch runs in reverse</string>
     
+    <string id="MarkerColorTitle">Color of minute markers</string>
+    
     <string id="NumberColorTitle">Number Color</string>
     <string id="NumberColorPrompt">Color of dial numbers</string>
     

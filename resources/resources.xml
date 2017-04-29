@@ -1,5 +1,4 @@
 <resources>
-    <bitmap id="id_markers" filename="images/watchmarkers2-6t.png" />
     <font id="id_font_icons" filename="fonts/WatchIcons.fnt" />
     <font id="id_font_markers" filename="fonts/Markers.fnt" />
 </resources>

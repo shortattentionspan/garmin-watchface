@@ -9,12 +9,13 @@
     <property id="UseMilitaryFormat" type="boolean">false</property>
     <property id="DisplayReverse" type="boolean">true</property>
     
-    <property id="NumberColor" type="number">0x000055</property>
+    <property id="NumberColor" type="number">0x000000</property>
     <property id="DateColor" type="number">0x555555</property>
     <property id="HourHandColor" type="number">0x000000</property>
     <property id="MinuteHandColor" type="number">0xFF0000</property>
     <property id="DigitalTimeColor" type="number">0x00FF00</property>
     <property id="StepsColor" type="number">0x0000FF</property>
+    <property id="MarkerColor" type="number">0x000000</property>
     
     <property id="BTIconColor" type="number">0x0000FF</property>
     <property id="NotificationIconColor" type="number">0x00AA00</property>

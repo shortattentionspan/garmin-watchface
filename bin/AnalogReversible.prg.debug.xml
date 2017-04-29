@@ -1,247 +1,232 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="36" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="38" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="42" pc="268435479" symbol="onLayout"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="44" pc="268435483" symbol="onLayout"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="45" pc="268435526" symbol="onLayout"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="51" pc="268435570" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="54" pc="268435574" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="55" pc="268435578" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="55" pc="268435598" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="56" pc="268435604" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="57" pc="268435621" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="58" pc="268435661" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="59" pc="268435681" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="59" pc="268435712" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="61" pc="268435722" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="61" pc="268435753" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="64" pc="268435760" symbol="mySleepMode"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="70" pc="268435764" symbol="onShow"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="78" pc="268435769" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="81" pc="268435773" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="82" pc="268435971" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="83" pc="268435979" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="84" pc="268435998" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="85" pc="268436020" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="86" pc="268436039" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="89" pc="268436058" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="91" pc="268436076" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="92" pc="268436107" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="93" pc="268436138" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="95" pc="268436170" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="99" pc="268436210" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="104" pc="268436260" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="105" pc="268436274" symbol="drawHand"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="110" pc="268436289" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="112" pc="268436293" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="113" pc="268436306" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="114" pc="268436323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="115" pc="268436323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="116" pc="268436323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="117" pc="268436348" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="118" pc="268436365" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="119" pc="268436372" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="120" pc="268436389" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="121" pc="268436406" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="122" pc="268436413" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="123" pc="268436420" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="124" pc="268436427" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="125" pc="268436434" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="127" pc="268436441" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="129" pc="268436448" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="130" pc="268436461" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="132" pc="268436474" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="133" pc="268436491" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="136" pc="268436522" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="137" pc="268436598" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="140" pc="268436629" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="142" pc="268436641" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="143" pc="268436652" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="145" pc="268436746" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="146" pc="268436772" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="149" pc="268436816" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="155" pc="268436843" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="156" pc="268436896" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="157" pc="268436950" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="160" pc="268436982" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="165" pc="268437060" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="167" pc="268437135" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="173" pc="268437201" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="174" pc="268437254" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="177" pc="268437308" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="180" pc="268437383" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="188" pc="268437436" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="193" pc="268437520" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="196" pc="268437531" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="197" pc="268437584" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="203" pc="268437637" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="204" pc="268437665" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="208" pc="268437682" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="209" pc="268437735" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="210" pc="268437779" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="211" pc="268437789" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="212" pc="268437815" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="218" pc="268437863" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="222" pc="268437880" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="223" pc="268437933" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="224" pc="268437986" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="225" pc="268437996" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="226" pc="268438006" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="227" pc="268438063" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="229" pc="268438076" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="230" pc="268438102" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="234" pc="268438147" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="235" pc="268438200" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="237" pc="268438224" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="239" pc="268438231" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="241" pc="268438275" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="247" pc="268438323" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="248" pc="268438354" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="249" pc="268438364" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="250" pc="268438387" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="251" pc="268438440" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="253" pc="268438468" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="254" pc="268438503" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="255" pc="268438556" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="257" pc="268438584" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="258" pc="268438620" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="259" pc="268438656" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="260" pc="268438692" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="263" pc="268438728" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="264" pc="268438762" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="266" pc="268438815" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="267" pc="268438825" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="269" pc="268438850" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="270" pc="268438860" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="274" pc="268438886" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="276" pc="268438918" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="277" pc="268438925" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="281" pc="268438946" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="292" pc="268439011" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="300" pc="268439060" symbol="onHide"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="304" pc="268439065" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="308" pc="268439070" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="7" pc="268439075" symbol="initialize"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="8" pc="268439079" symbol="initialize"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="12" pc="268439100" symbol="initialize"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="15" pc="268439121" symbol="draw"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="17" pc="268439125" symbol="draw"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="18" pc="268439178" symbol="draw"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="6" pc="268439191" symbol="initialize"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="7" pc="268439195" symbol="initialize"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="11" pc="268439214" symbol="onStart"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="15" pc="268439219" symbol="onStop"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="19" pc="268439224" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="20" pc="268439228" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="24" pc="268439266" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="25" pc="268439270" symbol="onSettingsChanged"/>
-<entry filename="Rez" lineNum="68" pc="268439287" symbol="initialize"/>
-<entry filename="Rez" lineNum="69" pc="268439291" symbol="initialize"/>
-<entry filename="Rez" lineNum="70" pc="268439315" symbol="initialize"/>
-<entry filename="Rez" lineNum="73" pc="268439359" symbol="draw"/>
-<entry filename="Rez" lineNum="74" pc="268439363" symbol="draw"/>
-<entry filename="Rez" lineNum="75" pc="268439370" symbol="draw"/>
-<entry filename="Rez" lineNum="76" pc="268439377" symbol="draw"/>
-<entry filename="Rez" lineNum="77" pc="268439390" symbol="draw"/>
-<entry filename="Rez" lineNum="78" pc="268439403" symbol="draw"/>
-<entry filename="Rez" lineNum="81" pc="268439426" symbol="drawComplex"/>
-<entry filename="Rez" lineNum="83" pc="268439430" symbol="drawComplex"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="35" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="36" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="40" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="41" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="42" pc="268435526" symbol="onLayout"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="47" pc="268435570" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="50" pc="268435574" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="51" pc="268435578" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="51" pc="268435598" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="52" pc="268435604" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="53" pc="268435621" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="54" pc="268435661" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="55" pc="268435681" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="55" pc="268435712" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="57" pc="268435722" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="57" pc="268435753" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="60" pc="268435760" symbol="mySleepMode"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="66" pc="268435764" symbol="onShow"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="74" pc="268435769" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="77" pc="268435773" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="78" pc="268435971" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="79" pc="268435979" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="80" pc="268435998" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="81" pc="268436020" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="82" pc="268436039" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="85" pc="268436058" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="87" pc="268436076" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="88" pc="268436107" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="89" pc="268436138" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="91" pc="268436170" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="95" pc="268436210" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="100" pc="268436260" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="101" pc="268436274" symbol="drawHand"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="106" pc="268436289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="108" pc="268436293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="109" pc="268436306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="110" pc="268436323" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="111" pc="268436323" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="112" pc="268436323" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="113" pc="268436348" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="114" pc="268436365" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="115" pc="268436372" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="116" pc="268436389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="117" pc="268436406" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="118" pc="268436413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="119" pc="268436420" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="120" pc="268436427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="122" pc="268436434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="124" pc="268436441" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="125" pc="268436454" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="127" pc="268436467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="128" pc="268436484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="131" pc="268436515" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="132" pc="268436591" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="135" pc="268436622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="137" pc="268436634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="138" pc="268436645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="140" pc="268436739" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="141" pc="268436765" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="144" pc="268436809" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="145" pc="268436862" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="148" pc="268436909" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="149" pc="268436962" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="150" pc="268437013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="153" pc="268437045" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="158" pc="268437120" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="160" pc="268437192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="166" pc="268437255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="167" pc="268437308" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="170" pc="268437362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="173" pc="268437434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="174" pc="268437487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="177" pc="268437568" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="179" pc="268437579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="180" pc="268437632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="186" pc="268437685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="187" pc="268437713" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="190" pc="268437730" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="191" pc="268437783" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="192" pc="268437827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="193" pc="268437837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="194" pc="268437863" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="200" pc="268437911" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="203" pc="268437928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="204" pc="268437981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="205" pc="268438034" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="206" pc="268438044" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="207" pc="268438054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="208" pc="268438111" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="210" pc="268438124" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="211" pc="268438150" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="215" pc="268438195" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="216" pc="268438248" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="218" pc="268438272" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="219" pc="268438279" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="220" pc="268438323" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="224" pc="268438371" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="225" pc="268438402" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="226" pc="268438412" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="227" pc="268438435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="228" pc="268438488" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="230" pc="268438519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="231" pc="268438554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="232" pc="268438607" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="234" pc="268438638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="235" pc="268438674" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="236" pc="268438707" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="237" pc="268438743" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="240" pc="268438776" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="241" pc="268438810" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="243" pc="268438863" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="244" pc="268438873" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="246" pc="268438898" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="247" pc="268438908" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="251" pc="268438934" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="253" pc="268438966" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="254" pc="268438973" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="258" pc="268438994" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="269" pc="268439059" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="277" pc="268439108" symbol="onHide"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="281" pc="268439113" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleView.mc" lineNum="285" pc="268439118" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="7" pc="268439123" symbol="initialize"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="8" pc="268439127" symbol="initialize"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="12" pc="268439148" symbol="initialize"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="15" pc="268439169" symbol="draw"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="17" pc="268439173" symbol="draw"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleBackground.mc" lineNum="18" pc="268439226" symbol="draw"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="6" pc="268439239" symbol="initialize"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="7" pc="268439243" symbol="initialize"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="11" pc="268439262" symbol="onStart"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="15" pc="268439267" symbol="onStop"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="19" pc="268439272" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="20" pc="268439276" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="24" pc="268439314" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\Synaptics\\git\\garmin-watchface\\source\\AnalogReversibleApp.mc" lineNum="25" pc="268439318" symbol="onSettingsChanged"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="25" symbol="id_markers"/>
 <entry field="true" id="16" symbol="profile"/>
+<entry field="true" id="59" symbol="MarkerColorTitle"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="40" symbol="AlarmIconColorTitle"/>
+<entry field="true" id="35" symbol="AlarmIconColorTitle"/>
 <entry id="20" method="true" symbol="mySleepMode"/>
-<entry field="true" id="71" symbol="Color55"/>
-<entry field="true" id="32" symbol="ColorBlue"/>
+<entry field="true" id="67" symbol="Color55"/>
+<entry field="true" id="27" symbol="ColorBlue"/>
 <entry id="8" object="true" symbol="ReversibleView"/>
 <entry field="true" id="13" symbol="notificationicon"/>
 <entry field="true" id="18" symbol="wake"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
 <entry id="8388645" symbol="Time"/>
-<entry field="true" id="45" symbol="Color00"/>
-<entry field="true" id="65" symbol="ColorOrange"/>
+<entry field="true" id="40" symbol="Color00"/>
+<entry field="true" id="61" symbol="ColorOrange"/>
+<entry field="true" id="19" symbol="markerFont"/>
 <entry id="8388770" module="true" symbol="Strings"/>
-<entry field="true" id="54" symbol="ColorGreen"/>
-<entry field="true" id="38" symbol="ColorYellow"/>
-<entry field="true" id="53" symbol="ColorWhite"/>
+<entry field="true" id="49" symbol="ColorGreen"/>
+<entry field="true" id="33" symbol="ColorYellow"/>
+<entry field="true" id="48" symbol="ColorWhite"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389068" method="true" symbol="draw"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="9" object="true" symbol="asdfBackground"/>
 <entry id="8388640" symbol="Lang"/>
-<entry field="true" id="55" symbol="BatteryIconColorTitle"/>
-<entry field="true" id="64" symbol="ColorBlack"/>
+<entry field="true" id="50" symbol="BatteryIconColorTitle"/>
+<entry field="true" id="60" symbol="ColorBlack"/>
 <entry id="8388769" module="true" symbol="Rez"/>
-<entry field="true" id="49" symbol="BackgroundColorGTitle"/>
+<entry field="true" id="44" symbol="BackgroundColorGTitle"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="42" symbol="ColorDarkGreen"/>
-<entry id="29" method="true" symbol="drawComplex"/>
-<entry field="true" id="51" symbol="ColorPink"/>
-<entry field="true" id="44" symbol="ColorRed"/>
-<entry field="true" id="66" symbol="ReverseTitle"/>
-<entry field="true" id="36" symbol="StepsColorTitle"/>
-<entry field="true" id="73" symbol="HourHandColorTitle"/>
-<entry field="true" id="70" symbol="ForegroundColorTitle"/>
+<entry field="true" id="37" symbol="ColorDarkGreen"/>
+<entry field="true" id="46" symbol="ColorPink"/>
+<entry field="true" id="39" symbol="ColorRed"/>
+<entry field="true" id="62" symbol="ReverseTitle"/>
+<entry field="true" id="31" symbol="StepsColorTitle"/>
+<entry field="true" id="69" symbol="HourHandColorTitle"/>
+<entry field="true" id="66" symbol="ForegroundColorTitle"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="30" symbol="id_font_icons"/>
-<entry field="true" id="41" symbol="AppName"/>
-<entry field="true" id="60" symbol="BackgroundColorBTitle"/>
+<entry field="true" id="25" symbol="id_font_icons"/>
+<entry field="true" id="36" symbol="AppName"/>
+<entry field="true" id="55" symbol="BackgroundColorBTitle"/>
 <entry id="21" method="true" symbol="drawHand"/>
-<entry field="true" id="19" symbol="markers"/>
-<entry field="true" id="24" symbol="WatchMarker"/>
-<entry field="true" id="76" symbol="NumberColorPrompt"/>
+<entry field="true" id="72" symbol="NumberColorPrompt"/>
 <entry id="8388641" symbol="Math"/>
 <entry field="true" id="17" symbol="sleep"/>
 <entry field="true" id="14" symbol="AlarmClock"/>
-<entry field="true" id="26" symbol="LauncherIcon"/>
-<entry field="true" id="56" symbol="ReversePrompt"/>
+<entry field="true" id="24" symbol="LauncherIcon"/>
+<entry field="true" id="51" symbol="ReversePrompt"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry field="true" id="47" symbol="MinuteHandColorTitle"/>
-<entry field="true" id="50" symbol="MinuteHandColorPrompt"/>
+<entry field="true" id="42" symbol="MinuteHandColorTitle"/>
+<entry field="true" id="45" symbol="MinuteHandColorPrompt"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="61" symbol="ColorDarkGray"/>
+<entry field="true" id="56" symbol="ColorDarkGray"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="15" symbol="iconFont"/>
 <entry id="10" object="true" symbol="ReversibleApp"/>
-<entry field="true" id="52" symbol="DigitalTimeColorTitle"/>
-<entry field="true" id="59" symbol="AppVersionTitle"/>
-<entry field="true" id="48" symbol="ColorRGB"/>
-<entry field="true" id="74" symbol="HourHandColorPrompt"/>
+<entry field="true" id="47" symbol="DigitalTimeColorTitle"/>
+<entry field="true" id="54" symbol="AppVersionTitle"/>
+<entry field="true" id="43" symbol="ColorRGB"/>
+<entry field="true" id="70" symbol="HourHandColorPrompt"/>
 <entry field="true" id="11" symbol="BTOn"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389348" symbol="font"/>
-<entry field="true" id="57" symbol="ColorLightGray"/>
-<entry field="true" id="39" symbol="BackgroundColorRTitle"/>
-<entry field="true" id="33" symbol="BackgroundColorTitle"/>
-<entry field="true" id="58" symbol="BTIconColorTitle"/>
-<entry field="true" id="68" symbol="StepsColorPrompt"/>
-<entry field="true" id="67" symbol="BackgroundColorPrompt"/>
-<entry field="true" id="69" symbol="NumberColorTitle"/>
+<entry field="true" id="52" symbol="ColorLightGray"/>
+<entry field="true" id="34" symbol="BackgroundColorRTitle"/>
+<entry field="true" id="28" symbol="BackgroundColorTitle"/>
+<entry field="true" id="53" symbol="BTIconColorTitle"/>
+<entry field="true" id="64" symbol="StepsColorPrompt"/>
+<entry field="true" id="63" symbol="BackgroundColorPrompt"/>
+<entry field="true" id="65" symbol="NumberColorTitle"/>
 <entry field="true" id="12" symbol="battlevel"/>
 <entry id="23" module="true" symbol="Layouts"/>
-<entry id="27" object="true" symbol="bkgnd"/>
-<entry field="true" id="62" symbol="ColorDarkBlue"/>
-<entry field="true" id="31" symbol="id_font_markers"/>
+<entry field="true" id="57" symbol="ColorDarkBlue"/>
+<entry field="true" id="26" symbol="id_font_markers"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="35" symbol="DateColorPrompt"/>
-<entry field="true" id="63" symbol="MilitaryFormatTitle"/>
-<entry field="true" id="75" symbol="DateColorTitle"/>
+<entry field="true" id="30" symbol="DateColorPrompt"/>
+<entry field="true" id="58" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="71" symbol="DateColorTitle"/>
 <entry id="8389063" symbol="identifier"/>
 <entry id="22" module="true" symbol="Menus"/>
-<entry field="true" id="46" symbol="ColorFF"/>
-<entry field="true" id="34" symbol="ColorDarkRed"/>
-<entry field="true" id="43" symbol="DigitalTimeColorPrompt"/>
+<entry field="true" id="41" symbol="ColorFF"/>
+<entry field="true" id="29" symbol="ColorDarkRed"/>
+<entry field="true" id="38" symbol="DigitalTimeColorPrompt"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
-<entry field="true" id="37" symbol="NotificationIconColorTitle"/>
-<entry field="true" id="72" symbol="ColorAA"/>
-<entry field="true" id="28" symbol="image_markers"/>
-<entry field="true" id="77" symbol="ColorPurple"/>
+<entry field="true" id="32" symbol="NotificationIconColorTitle"/>
+<entry field="true" id="68" symbol="ColorAA"/>
+<entry field="true" id="73" symbol="ColorPurple"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435763" name="now" stackId="3" startPc="268435574"/>
@@ -256,32 +241,27 @@
 <entry endPc="268436288" name="centerY" stackId="9" startPc="268435773"/>
 <entry endPc="268436288" name="coords" stackId="6" startPc="268435773"/>
 <entry endPc="268436288" name="centerX" stackId="8" startPc="268435773"/>
-<entry endPc="268439059" name="timeFormat" stackId="16" startPc="268436293"/>
-<entry endPc="268439059" name="now" stackId="19" startPc="268436293"/>
-<entry endPc="268439059" name="dev" stackId="9" startPc="268436293"/>
-<entry endPc="268439059" name="backgroundColor" stackId="22" startPc="268436293"/>
-<entry endPc="268439059" name="actinfo" stackId="7" startPc="268436293"/>
-<entry endPc="268439059" name="batt" stackId="11" startPc="268436293"/>
-<entry endPc="268439059" name="hour" stackId="4" startPc="268436293"/>
-<entry endPc="268439059" name="dateStr" stackId="21" startPc="268436293"/>
-<entry endPc="268439059" name="clockTime" stackId="3" startPc="268436293"/>
-<entry endPc="268439059" name="dialShift" stackId="15" startPc="268436293"/>
-<entry endPc="268439059" name="inboard" stackId="12" startPc="268436293"/>
-<entry endPc="268439059" name="height" stackId="18" startPc="268436293"/>
-<entry endPc="268439059" name="width" stackId="17" startPc="268436293"/>
-<entry endPc="268439059" name="fontheight" stackId="6" startPc="268436293"/>
-<entry endPc="268439059" name="min" stackId="5" startPc="268436293"/>
-<entry endPc="268439059" name="screenWidth" stackId="2" startPc="268436293"/>
-<entry endPc="268439059" name="j" stackId="14" startPc="268436293"/>
-<entry endPc="268439059" name="i" stackId="13" startPc="268436293"/>
-<entry endPc="268439059" name="info" stackId="20" startPc="268436293"/>
-<entry endPc="268439059" name="SleepMsg" stackId="8" startPc="268436293"/>
-<entry endPc="268439059" name="stats" stackId="10" startPc="268436293"/>
-<entry endPc="268439120" name="dictionary" stackId="1" startPc="268439079"/>
-<entry endPc="268439425" name="pWidth" stackId="4" startPc="268439363"/>
-<entry endPc="268439425" name="pY" stackId="3" startPc="268439363"/>
-<entry endPc="268439425" name="pX" stackId="2" startPc="268439363"/>
-<entry endPc="268439425" name="pHeight" stackId="5" startPc="268439363"/>
+<entry endPc="268439107" name="timeFormat" stackId="15" startPc="268436293"/>
+<entry endPc="268439107" name="now" stackId="18" startPc="268436293"/>
+<entry endPc="268439107" name="dev" stackId="9" startPc="268436293"/>
+<entry endPc="268439107" name="backgroundColor" stackId="21" startPc="268436293"/>
+<entry endPc="268439107" name="actinfo" stackId="7" startPc="268436293"/>
+<entry endPc="268439107" name="batt" stackId="11" startPc="268436293"/>
+<entry endPc="268439107" name="hour" stackId="4" startPc="268436293"/>
+<entry endPc="268439107" name="dateStr" stackId="20" startPc="268436293"/>
+<entry endPc="268439107" name="clockTime" stackId="3" startPc="268436293"/>
+<entry endPc="268439107" name="inboard" stackId="12" startPc="268436293"/>
+<entry endPc="268439107" name="height" stackId="17" startPc="268436293"/>
+<entry endPc="268439107" name="width" stackId="16" startPc="268436293"/>
+<entry endPc="268439107" name="fontheight" stackId="6" startPc="268436293"/>
+<entry endPc="268439107" name="min" stackId="5" startPc="268436293"/>
+<entry endPc="268439107" name="screenWidth" stackId="2" startPc="268436293"/>
+<entry endPc="268439107" name="j" stackId="14" startPc="268436293"/>
+<entry endPc="268439107" name="i" stackId="13" startPc="268436293"/>
+<entry endPc="268439107" name="info" stackId="19" startPc="268436293"/>
+<entry endPc="268439107" name="SleepMsg" stackId="8" startPc="268436293"/>
+<entry endPc="268439107" name="stats" stackId="10" startPc="268436293"/>
+<entry endPc="268439168" name="dictionary" stackId="1" startPc="268439127"/>
 </localVars>
 <annotations/>
 <functions>
@@ -342,21 +322,6 @@
 </functionEntry>
 <functionEntry name="onSettingsChanged" parent="ReversibleApp">
 <documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry name="initialize" parent="bkgnd">
-<documentation/>
-</functionEntry>
-<functionEntry name="draw" parent="bkgnd">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry name="drawComplex" parent="bkgnd">
-<param id="dc"/>
-<param id="pX"/>
-<param id="pY"/>
-<param id="pWidth"/>
-<param id="pHeight"/>
-<documentation/>
 </functionEntry>
 </functions>
 </debugInfo>

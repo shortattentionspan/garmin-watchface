@@ -23,14 +23,15 @@ class ReversibleView extends Ui.WatchFace {
     var battlevel;
     var notificationicon;
     var AlarmClock;
+    var iconFont;
     
     //part of sleep mode workaround
     var profile = UserProfile.getProfile();  
     var sleep=profile.sleepTime.value();
     var wake=profile.wakeTime.value();
     
-    //var fontheight = 15; //Gfx.Dc.getFontHeight(font);
     var markers;
+    //var markerFont;
     
     function initialize() {
     	//markers = new Rez.Drawables.bkgnd();
@@ -40,11 +41,9 @@ class ReversibleView extends Ui.WatchFace {
     //! Load your resources here
     function onLayout(dc) {
     	//setLayout(Rez.Layouts.WatchFace(dc));
-        BTOn = Ui.loadResource(Rez.Drawables.id_BTOn);
-        battlevel = Ui.loadResource(Rez.Drawables.id_batt);
-        notificationicon = Ui.loadResource(Rez.Drawables.id_notification);
-        AlarmClock = Ui.loadResource(Rez.Drawables.id_alarm);
         markers = Ui.loadResource(Rez.Drawables.id_markers);
+        iconFont = Ui.loadResource(Rez.Fonts.id_font_icons);
+        //markerFont = Ui.loadResource(Rez.Fonts.id_font_markers);
     }
 
 
@@ -115,7 +114,6 @@ class ReversibleView extends Ui.WatchFace {
         var hour;
         var min;
         var fontheight = dc.getFontHeight(Gfx.FONT_NUMBER_MILD);
-        //var fontwidth = dc.getFontWidth(Gfx.FONT_NUMBER_MILD);
         var actinfo = Act.getInfo();
         var SleepMsg = "Go to sleep";
         var dev = Sys.getDeviceSettings();
@@ -136,23 +134,24 @@ class ReversibleView extends Ui.WatchFace {
         //var sleepmode = actinfo.isSleepMode;
 
         var dateStr = Lang.format("$1$ $2$ $3$", [info.day_of_week, info.month, info.day]);
+        var backgroundColor = App.getApp().getProperty("BackgroundColor");
         
         // Clear the screen
-        //dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
-        dc.setColor(App.getApp().getProperty("BackgroundColor"), Gfx.COLOR_TRANSPARENT);
+        dc.clear();
+        //there's probably a more elegant way to draw the background other than drawing a large rectangle...
+        if (backgroundColor == 0x000001) {
+        	backgroundColor=App.getApp().getProperty("BackgroundColorR")+App.getApp().getProperty("BackgroundColorG")+App.getApp().getProperty("BackgroundColorB");
+        }
+        dc.setColor(backgroundColor, Gfx.COLOR_TRANSPARENT);
         dc.fillRectangle(0,0,dc.getWidth(), dc.getHeight());
-        //dc.clear();
         
         //markers.draw(dc);
         dc.drawBitmap(0,dialShift,markers);
+        //dc.setColor(Gfx.COLOR_BLUE, Gfx.COLOR_TRANSPARENT);
+        //dc.drawText(0, dialShift, markerFont, "0", Gfx.TEXT_JUSTIFY_LEFT);
+        //dc.drawText(0, dialShift+10, markerFont, "0", Gfx.TEXT_JUSTIFY_LEFT);
         
-        // Draw the gray rectangle
-        //dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_DK_GRAY);
-        //dc.fillPolygon([[0,0],[dc.getWidth(), 0],[dc.getWidth(), dc.getHeight()],[0,dc.getHeight()]]);
         // Draw the numbers
-        //dc.setColor(App.getApp().getProperty("ForegroundColor"), Gfx.COLOR_TRANSPARENT);
-        //dc.setColor(App.getApp().getProperty("ForegroundColor"), App.getApp().getProperty("BackgroundColor"));
-        //dc.setColor(App.getApp().getProperty("NumberColor"), Gfx.COLOR_TRANSPARENT);
         dc.setColor(App.getApp().getProperty("NumberColor"), Gfx.COLOR_TRANSPARENT);
         dc.drawText((width/2),inboard+dialShift,Gfx.FONT_NUMBER_MILD,"12",Gfx.TEXT_JUSTIFY_CENTER);
         if (App.getApp().getProperty("DisplayReverse"))
@@ -193,7 +192,9 @@ class ReversibleView extends Ui.WatchFace {
         // Draw blue bluetooth icon if connected to phone
         if (dev.phoneConnected)
         	{
-        	dc.drawBitmap(width-16,1,BTOn);
+        	//dc.drawBitmap(width-16,1,BTOn);
+        	dc.setColor(App.getApp().getProperty("BTIconColor"), Gfx.COLOR_TRANSPARENT);
+        	dc.drawText(width-2,0,iconFont,"4",Gfx.TEXT_JUSTIFY_RIGHT);
         	}
         	
         //Show alarm number
@@ -203,9 +204,11 @@ class ReversibleView extends Ui.WatchFace {
         if (dev.alarmCount>0)
         {
         
-        dc.drawBitmap(1,j+1,AlarmClock);
-        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+        //dc.drawBitmap(1,j+1,AlarmClock);
+        dc.setColor(App.getApp().getProperty("AlarmIconColor"), Gfx.COLOR_TRANSPARENT);
+        dc.drawText(1,j,iconFont,"3",Gfx.TEXT_JUSTIFY_LEFT);
         batt=dev.alarmCount;
+        dc.setColor(backgroundColor, Gfx.COLOR_TRANSPARENT);
         dc.drawText(13,j,Gfx.FONT_MEDIUM,batt,Gfx.TEXT_JUSTIFY_CENTER);
         }
         
@@ -215,22 +218,26 @@ class ReversibleView extends Ui.WatchFace {
         if (dev.notificationCount>0)
         {
         //j=width-24;
-        dc.drawBitmap(width-30,j+4,notificationicon);
-        dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
+        //dc.drawBitmap(width-30,j+4,notificationicon);
+        dc.setColor(App.getApp().getProperty("NotificationIconColor"), Gfx.COLOR_TRANSPARENT);
+        dc.drawText(width-30,j+3,iconFont,"2",Gfx.TEXT_JUSTIFY_LEFT);
         batt = dev.notificationCount;
         i= width - 15;
         if (dev.notificationCount==10 || (dev.notificationCount >11 && dev.notificationCount<20))
         {i=i-1;}   //hack for kerning of number 1
         //j = height - dc.getFontHeight(Gfx.FONT_MEDIUM) - 2;
+        dc.setColor(backgroundColor, Gfx.COLOR_TRANSPARENT);
         dc.drawText(i, j ,Gfx.FONT_MEDIUM,batt,Gfx.TEXT_JUSTIFY_CENTER);
         }
         
         //Show battery percentage
-        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+        dc.setColor(App.getApp().getProperty("BatteryIconColor"), Gfx.COLOR_TRANSPARENT);
         batt = stats.battery.format("%d");
         //j = 1; //width + dc.getFontHeight(Gfx.FONT_SMALL) -3;
         i = 1 ; //width-21;
-        dc.drawBitmap(i,1,battlevel);
+        //dc.drawBitmap(i,1,battlevel);
+        dc.drawText(i,0,iconFont,"1",Gfx.TEXT_JUSTIFY_LEFT);
+        //dc.setColor(backgroundColor, Gfx.COLOR_TRANSPARENT);
         dc.drawText(16,-3 ,Gfx.FONT_MEDIUM, batt ,Gfx.TEXT_JUSTIFY_CENTER);
         
         // Draw the hash marks

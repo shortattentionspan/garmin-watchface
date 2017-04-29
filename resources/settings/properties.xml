@@ -1,7 +1,10 @@
 <properties>
 
-	<property id="appVersion" type="string">alpha 0.11</property>
+	<property id="appVersion" type="string">1.0</property>
     <property id="BackgroundColor" type="number">0xFFFFFF</property>
+    <property id="BackgroundColorR" type="number">0x000000</property>
+    <property id="BackgroundColorG" type="number">0x000000</property>
+    <property id="BackgroundColorB" type="number">0x0000AA</property>
     <property id="ForegroundColor" type="number">0x000000</property>
     <property id="UseMilitaryFormat" type="boolean">false</property>
     <property id="DisplayReverse" type="boolean">true</property>
@@ -12,5 +15,11 @@
     <property id="MinuteHandColor" type="number">0xFF0000</property>
     <property id="DigitalTimeColor" type="number">0x00FF00</property>
     <property id="StepsColor" type="number">0x0000FF</property>
+    
+    <property id="BTIconColor" type="number">0x0000FF</property>
+    <property id="NotificationIconColor" type="number">0x00AA00</property>
+    <property id="BatteryIconColor" type="number">0x000000</property>
+    <property id="AlarmIconColor" type="number">0xAA0000</property>
+    
 
 </properties>

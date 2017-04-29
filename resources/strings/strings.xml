@@ -7,6 +7,10 @@
     <string id="BackgroundColorTitle">Background Color</string>
     <string id="BackgroundColorPrompt">Background Color of watch face</string>
     
+    <string id="BackgroundColorRTitle">RGB Background Red</string>
+    <string id="BackgroundColorGTitle">RGB Background Green</string>
+    <string id="BackgroundColorBTitle">RGB Background Blue</string>    
+    
     <string id="ForegroundColorTitle">Foreground Color</string>
     <string id="MilitaryFormatTitle">Military Format for 24 Hour Time</string>
     
@@ -31,17 +35,33 @@
     <string id="StepsColorTitle">Steps Color</string>
     <string id="StepsColorPrompt">Color of step count</string>
     
+    
+    <string id="ColorRGB">Use RGB</string>
     <string id="ColorBlack">Black</string>
     <string id="ColorDarkGray">Dark Gray</string>
     <string id="ColorLightGray">Light Gray</string>
-    <string id="ColorWhite">White</string>
-    <string id="ColorBlue">Blue</string>
-    <string id="ColorMediumBlue">Medium Blue</string>
-    <string id="ColorDarkBlue">Dark Blue</string>
-    <string id="ColorLightBlue">Light Blue</string>
-    <string id="ColorGreen">Green</string>
-    <string id="ColorDarkGreen">Dark Green</string>
+    <string id="ColorWhite">White</string>    
     <string id="ColorRed">Red</string>
     <string id="ColorDarkRed">Dark Red</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>    
+    <string id="ColorDarkGreen">Dark Green</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorDarkBlue">Dark Blue</string>    
+    <string id="ColorPurple">Purple</string>
+    <string id="ColorPink">Pink</string>
+    
+    <string id="Color00">00</string>
+    <string id="Color55">55</string>
+    <string id="ColorAA">AA</string>
+    <string id="ColorFF">FF</string>
+    
+
+    <string id="BTIconColorTitle">BlueTooth icon color</string>
+    <string id="NotificationIconColorTitle">Notification icon color</string>
+    <string id="BatteryIconColorTitle">Battery icon color</string>
+    <string id="AlarmIconColorTitle">Alarm icon color</string>
+
 
 </strings>

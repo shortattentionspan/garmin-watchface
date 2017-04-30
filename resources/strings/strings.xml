@@ -60,7 +60,7 @@
     <string id="ColorFF">FF</string>
     
 
-    <string id="BTIconColorTitle">BlueTooth icon color</string>
+    <string id="BTIconColorTitle">Phone connection icon color</string>
     <string id="NotificationIconColorTitle">Notification icon color</string>
     <string id="BatteryIconColorTitle">Battery icon color</string>
     <string id="AlarmIconColorTitle">Alarm icon color</string>

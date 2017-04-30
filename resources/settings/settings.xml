@@ -9,11 +9,11 @@
         <settingConfig type="boolean" />
     </setting>
 
-	<setting propertyKey="@Properties.DisplayReverse" title="@Strings.ReverseTitle" prompt="@Strings.ReversePrompt">
+	<setting propertyKey="@Properties.DisplayReverse" title="@Strings.ReverseTitle">
         <settingConfig type="boolean" />
     </setting>   
 
-    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle" prompt="@Strings.BackgroundColorPrompt">
+    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000001">@Strings.ColorRGB</listEntry>
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>        
@@ -79,7 +79,7 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.NumberColor" title="@Strings.NumberColorTitle" prompt="@Strings.NumberColorPrompt">
+    <setting propertyKey="@Properties.NumberColor" title="@Strings.NumberColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>        
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
@@ -98,7 +98,7 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.HourHandColor" title="@Strings.HourHandColorTitle" prompt="@Strings.HourHandColorPrompt">
+    <setting propertyKey="@Properties.HourHandColor" title="@Strings.HourHandColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>        
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
@@ -117,7 +117,7 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.MinuteHandColor" title="@Strings.MinuteHandColorTitle" prompt="@Strings.MinuteHandColorPrompt">
+    <setting propertyKey="@Properties.MinuteHandColor" title="@Strings.MinuteHandColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>        
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
@@ -136,7 +136,7 @@
         </settingConfig>
     </setting>
     
-    <setting propertyKey="@Properties.StepsColor" title="@Strings.StepsColorTitle" prompt="@Strings.StepsColorPrompt">
+    <setting propertyKey="@Properties.StepsColor" title="@Strings.StepsColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>        
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
@@ -155,7 +155,7 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.DateColor" title="@Strings.DateColorTitle" prompt="@Strings.DateColorPrompt">
+    <setting propertyKey="@Properties.DateColor" title="@Strings.DateColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>        
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
@@ -174,7 +174,7 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.DigitalTimeColor" title="@Strings.DigitalTimeColorTitle" prompt="@Strings.DigitalTimeColorPrompt">
+    <setting propertyKey="@Properties.DigitalTimeColor" title="@Strings.DigitalTimeColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>        
             <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
